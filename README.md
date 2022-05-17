@@ -14,3 +14,5 @@ faça a extração dos arquivos para algum diretório da sua maquina.<br>
 Agora vamos precisar de uma IDE para acessar os arquivos<br>
 
 Comando para rodar codigo uvicorn main:app no backEnd<br>
+
+Comando para rodar codigo ng serve no FrontEnd<br>
